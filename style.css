@@ -1,0 +1,135 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto Slab', serif;
+    background-color: #dddfd4;
+    font-size: 16px;
+    
+}
+#title-bar{
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #38b0ad;
+    width: 900px;
+    height: 50px;
+}
+.github-style{
+    font-size: 30px;
+    color: black;
+    padding-right: 120px;
+    position: relative;
+    bottom: 6px;
+}
+.footer-bar{
+    background-color: #38b0ad;
+    width: 900px;
+    height: 40px;
+    display: block;
+}
+.github-logo{
+    mix-blend-mode: multiply;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 3px;
+    width: 30px;
+    display: inline-block;
+}
+h1{
+    color: white;
+    display: inline-block;
+
+}
+.white-color{
+    color: white;
+}
+.title-links, ul li{
+    font-size: 12px;
+    font-weight: 600;
+    padding-left: 20px;
+    position: relative;
+    bottom: 6px;    
+    display: inline-block;
+}
+
+#main-container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #fbe691;
+    display: block;
+    width: 900px;
+    height:600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    color: white;
+    padding: 5px;
+}
+span{
+    color: #38b0ad;
+}
+.sidebar{
+    background-color: #153f43;
+    width: 270px;
+    height: 570px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+    margin: 10px 0px 10px 10px;
+}
+.line-spacing{
+    margin-top: 20px;
+}
+.three-blocks{
+    margin:0 10px 10px 10px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #153f43;
+    width: 170px;
+    height: 170px;
+    padding: 2px;
+}
+p{
+    color: white;
+    padding: 2px;
+}
+.group2box{
+    margin-left: 10px;
+    margin-top: 10px;
+    display: inline-block;
+    vertical-align: top;
+    width: 590px;
+    height: 580px;
+
+}
+.two-blocks{
+    display: inline-block;
+    vertical-align: top;
+    background-color: #153f43;
+    width: 268px;
+    height: 172px;
+    margin: 10px;
+    padding: 2px;
+}
+.gitpush-block{
+    display: inline-block;
+    vertical-align: top;
+    background-color: #153f43;
+    width: 564px;
+    height: 185px;
+    margin: 10px;
+    padding: 2px;
+}
+.footer-bar{
+    width: 900px;
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    line-height: 50px;
+}
